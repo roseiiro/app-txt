@@ -89,6 +89,9 @@ export default {
       // this.$http.headers.common.ApiKey = apikey
       this.$http.get(baseURL,
         {
+          headers: {
+            apiKey: ''
+          }
         }).then(res => {
         console.log(res.data)
       }).catch(err => {
