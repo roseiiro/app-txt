@@ -17,9 +17,9 @@ export default new Vuex.Store({
     // register ({ commit }) {
     //   const config = {
     //     method: 'post',
-    //     url: 'http://169.239.132.219:8010/apiV2/Socia'
+    //     url: 'http://localhost:8010/apiV2/Socia'
     //     headers: {
-    //       'apiKey': 'olmwSKaTXETReMHnBZd2X12HtOH1U8Ne'
+    //       'apiKey': ''
     //       ''
     //     }
     //   }
