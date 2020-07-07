@@ -1,4 +1,4 @@
-# socia
+# app-txt
 
 ## Project setup
 ```
