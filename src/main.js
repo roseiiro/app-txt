@@ -14,11 +14,6 @@ Vue.use(vueResource)
 
 // const http = Vue.http
 
-Vue.http.headers.common.ApiKey = 'olmwSKaTXETReMHnBZd2X12HtOH1U8Ne'
-// http.headers.common.Authorization = this.file.type.ApiKey
-
-// this.$http.put(this.ticket.upload_link_secure, this.file).then(this.uploadSuccess, this.uploadFail)
-
 new Vue({
   router,
   store,

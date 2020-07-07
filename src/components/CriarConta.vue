@@ -67,8 +67,7 @@
 
 // import axios from 'axios'
 
-const baseURL = 'http://169.239.132.219:8010/apiV2/Socia/Favoritos'
-// const apikey = 'olmwSKaTXETReMHnBZd2X12HtOH1U8Ne'
+const baseURL = 'http://localhost:8010/apiV2/Socia'
 
 export default {
   data () {
